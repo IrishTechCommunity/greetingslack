@@ -1,3 +1,12 @@
+#Hey ITC Slackers
+This was forked from https://github.com/orliesaurus/greetingslack by @robburke on 2017-01-05 after some discussion the previous night in #general.
+
+It's currently running unmodified in Heroku and if you'd like to be added as a collaborator there, just DM @robburke.
+
+The Heroku dyno doesn't currently pull/recompile when there's changes committed here but we could do that for future. I'd also like to add some more detailed logging for when the bot sends welcome messages.
+
+------------
+
 #Greetings Slackers
 This simple script written in basic Python will allow you to hook into the real time API of Slack and perform a greeting to every new joiner!
 Usually this is used to tell new joiners about the network, the guidelines, rules, useful links etc etc
